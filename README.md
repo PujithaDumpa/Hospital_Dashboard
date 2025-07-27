@@ -33,6 +33,12 @@ This project features an **interactive Excel dashboard** designed to track and a
 
 ---
 
+
+## 📷 Preview
+
+![Dashboard Preview](dashboard.png)
+
+---
 ## 🔧 Built With
 
 - Microsoft Excel (2016)
